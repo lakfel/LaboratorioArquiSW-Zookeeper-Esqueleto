@@ -3,10 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.example.services;
+package co.edu.uniandes.isis2503.services;
 
 
-import com.example.directorio.ZooKeeperMannager;
+import co.edu.uniandes.isis2503.logic.ZooKeeperMannager;
 import java.util.List;
 import javax.annotation.PostConstruct;
 import javax.ws.rs.GET;
